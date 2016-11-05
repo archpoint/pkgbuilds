@@ -2,7 +2,7 @@
 # Contributors: zandi
 
 pkgname=semaphor
-pkgver=1.1.7
+pkgver=1.2.0
 pkgrel=1
 epoch=
 pkgdesc="Chat and collaboration tool providing end-to-end cryptography"
@@ -25,7 +25,7 @@ changelog=
 # Can verify here: https://spideroak.com/semaphor/versioncheck/1.1.7/linux/x64
 source=("${pkgname}-${pkgver}-${arch}.rpm::http://spideroak.com/releases/semaphor/linux")
 noextract=()
-sha256sums=('ed5b8060ea872e819bd113c263e9916e6f45f6715732730696deb3e030e04107')
+sha256sums=('02ce96435cab3da7ee304b861b50978f6b698839')
 validpgpkeys=()
 
 package() {
