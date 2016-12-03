@@ -22,7 +22,7 @@ options=()
 install=
 changelog=
 # No URL with version info available.
-# Can verify here: https://spideroak.com/semaphor/versioncheck/1.1.7/linux/x64
+# Can verify version number here: https://spideroak.com/semaphor/versioncheck/1.1.7/linux/x64
 source=("${pkgname}-${pkgver}-${arch}.rpm::http://spideroak.com/releases/semaphor/linux")
 noextract=()
 sha256sums=('e3a95266eab5eda0e66bd6c7621ab7e647c63740e8a8deb859fd208b0c7b79ca')
